@@ -1,0 +1,12 @@
+GameSS/Assets/**/*.ogg filter=lfs diff=lfs merge=lfs -text
+GameSS/Assets/**/*.blend filter=lfs diff=lfs merge=lfs -text
+GameSS/Assets/**/*.hdr filter=lfs diff=lfs merge=lfs -text
+GameSS/Assets/**/*.vrm filter=lfs diff=lfs merge=lfs -text
+GameSS/Assets/**/*.png filter=lfs diff=lfs merge=lfs -text
+GameSS/Assets/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+GameSS/Assets/**/*.tga filter=lfs diff=lfs merge=lfs -text
+GameSS/Assets/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
+GameSS/Assets/**/*.exr filter=lfs diff=lfs merge=lfs -text
+GameSS/Assets/**/*.fbx filter=lfs diff=lfs merge=lfs -text
+GameSS/Assets/**/*.psd filter=lfs diff=lfs merge=lfs -text
+GameSS/Assets/**/*.wav filter=lfs diff=lfs merge=lfs -text

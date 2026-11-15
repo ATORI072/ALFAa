@@ -1,0 +1,54 @@
+# ===== Unity =====
+GameSS/[Ll]ibrary/
+GameSS/[Tt]emp/
+GameSS/[Oo]bj/
+GameSS/[Bb]uild/
+GameSS/[Bb]uilds/
+GameSS/[Ll]ogs/
+GameSS/[Mm]emoryCaptures/
+GameSS/[Rr]ecordings/
+GameSS/[Uu]ser[Ss]ettings/
+GameSS/Assets/AssetStoreTools*
+GameSS/Assets/Plugins/Editor/JetBrains*
+
+# Unity 自动生成
+GameSS/*.csproj
+GameSS/*.sln
+GameSS/*.user
+GameSS/*.unityproj
+GameSS/*.pidb
+GameSS/*.booproj
+GameSS/*.svd
+GameSS/*.pdb
+GameSS/*.mdb
+GameSS/*.opendb
+GameSS/*.VC.db
+GameSS/.vsconfig
+GameSS/.vs/
+GameSS/.idea/
+
+# Unity3D 崩溃报告
+GameSS/sysinfo.txt
+GameSS/crashlytics-build.properties
+
+# ===== Plastic / UVCS（保留本地配置，不纳入版本库）=====
+GameSS/.plastic/
+GameSS/.plasticignore
+GameSS/ignore.conf
+
+# ===== 系统 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== 构建产物 =====
+Builds/
+*.apk
+*.aab
+*.exe
+*.zip
+
+# ===== 临时 =====
+*.tmp
+*.log
+!Logs/**/*.md
