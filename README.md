@@ -1,4 +1,4 @@
-# Project A
+# Project ALFA
 
 第三人称 · 动漫美少女 · 射击 × 解谜 · **单箱庭学生版**
 
@@ -28,10 +28,10 @@
 
 - 阶段：**M0 立项（第 1 周）**
 - 工程：`GameSS/` 已创建，当前为 **Built-in 渲染管线**，M0 内切换 URP
-- 版本控制：Unity 默认创建的 **UVCS/Plastic** workspace；建议改用 **Git + GitHub 学生包**
+- 版本控制：已迁移至 **Git + GitHub**（远程 `github.com/ATORI072/AB.git`，main 分支）；`.gitignore`（Unity 规则）与 `.gitattributes`（LFS 跟踪 fbx/png/wav 等大文件）已配置，`.plastic/`、`ignore.conf` 仅保留本地不入库
 - 范围：30×30 m 三层箱庭、2 武器、2 敌人、1 小 Boss、3 谜题、10–15 分钟
 - 最新日志：[2026-11-15](Logs/01-开发日志/2026-11-15.md)（含「20:50 约束重估」）
 
 ## 待确认
 
-每周投入时间 / 是否改用 Git / 题材确认 / 语言 / 是否公开 / 配音 —— 见流程规划 §11。
+每周投入时间 / 题材确认 / 语言 / 是否公开 / 配音 —— 见流程规划 §11。（版本控制已确定用 Git + GitHub）
